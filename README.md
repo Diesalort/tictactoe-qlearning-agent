@@ -41,7 +41,7 @@ The goal of this project was to create an agent capable of achieving **100% invi
 * **Libraries:** `matplotlib` (visualization), `tkinter` (GUI), `random`.
 
 ### How to Run
-1.  Clone the repository.
+1.  Clone the repository and install the required dependencies in its folder (requirements.txt).
 2.  Open the notebook `tictactoe_qlearning_agent.ipynb`.
 3.  Go to the `main` function at the end of the notebook.
 4.  Configure the specified parameters.
