@@ -1,0 +1,15 @@
+# Python (Compilación y temporales)
+__pycache__/
+*.pyc
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# IDEs y Editores
+.idea/
+.vscode/
