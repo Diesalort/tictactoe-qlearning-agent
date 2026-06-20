@@ -6,7 +6,7 @@ It features both a graphical interface which uses `tkinter` library; and a conso
 Other interesting statistics are also shown.
 ### Game Interface (tkinter)
 <p align="center">
-<img width="400" height="601" alt="image" src="https://github.com/user-attachments/assets/9938be99-3ce0-4fc5-b3ed-9ca9d4465f34" />
+<img width="493" height="601" alt="image" src="https://github.com/user-attachments/assets/9938be99-3ce0-4fc5-b3ed-9ca9d4465f34" />
 </p>
   
 ### Example of training evolution
